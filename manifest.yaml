@@ -1,5 +1,5 @@
 name: assistent-astronom
-version: 0.2.0
+version: 0.2.1
 type: assistant
 description: Demo-Assistent Astronom, rechnet nur mit Sonne und Mond, nennt Sterndaten aus verfügbarem Wissen
 requires:
